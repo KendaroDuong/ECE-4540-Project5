@@ -204,6 +204,7 @@ The ONEHOT3 glitch and the internal node `XONE.P4` peaking at 2.314 V are seen i
 
 **Kendaro, not done when this was written:**
 
+- Add the screenshots for Figures 1.2 and 1.4 (symbols) and 3.1 (testbench) to the draft
 - Confirm the schematic redraw didn't change results. The Spectre log matched (598 steps, 255.8 µA, 2.314 V), but the `diff` of `logic_char.py` results hasn't been reported.
 - Run the `SITE` grep from section 5 (you can do this too)
 
